@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm RASHI MISHRA!!</h1>
 <h3 align="center">A PASSIONATE LEARNER!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashi2505&label=Profile%20views&color=0e75b6&style=flat" alt="rashi2505" /> </p>
-
 - 🔭 I’m currently working on **Web Development Skills.**
 
 - 🌱 I’m currently learning **Javascript.**
