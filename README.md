@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm RASHI MISHRA!!</h1>
 <h3 align="center">A PASSIONATE LEARNER!!</h3>
 
-- 🔭 I’m currently working on **Web Development Skills.**
-
-- 🌱 I’m currently learning **Javascript.**
-
-- 👯 I’m looking to collaborate on **Frontend Projects.**
-
-- 💬 Ask me about **Content Writing tips!!**
-
-- 📫 How to reach me **You can ping me at the links below:)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rashi2505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashi2505" height="30" width="40" /></a>
