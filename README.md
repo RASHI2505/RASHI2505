@@ -1,4 +1,4 @@
-## Hey, connections! 👋 !
+## Hey, connections👋
 
 I'm Rashi Mishra, a final-year undergraduate. I’m pursuing  B.TECH (Major in Electronics and Communication Engineering | Minor in Computer Science Engineering) at BIT Mesra, Jharkhand. 
 I developed my passion in Software Development, Machine Learning, Data Analysis, Data Science and Frontend Development. Currently, I’m trying my hands on Natural Language Processing (NLP) and Data Structure and algorithms.
